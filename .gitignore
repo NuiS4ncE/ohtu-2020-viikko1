@@ -5,6 +5,6 @@
 build
 
 # Ignore IDE crap 
-.idea
-.vscode
-.settings
+.idea/
+.vscode/
+.settings/
